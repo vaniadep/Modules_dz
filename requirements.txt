@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy>=2.0
+asyncpg
+alembic
+pydantic
+PostgreSQL
+asyncpg
